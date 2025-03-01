@@ -4,6 +4,14 @@ This interactive sales analysis report was developed to provide a comprehensive 
 
 ---
 
+## 🖼️ **Dashboard Preview**
+Here’s a preview of the interactive dashboard:
+
+![Dashboard Screenshot](https://i.imgur.com/cQc1nZ0.png)  
+*Caption: A screenshot of the Power BI Sales Dashboard.*
+
+---
+
 ## 📊 **Sales Overview**
 - **Key Metrics**: Total Sold, Total Profit, and Profit Margin.
 - **Operational Indicators**: Number of invoices issued and customer coverage.
@@ -56,4 +64,8 @@ All to meet the strategic needs of organizations.
 
 ---
 
-**Check out the project on GitHub and explore the interactive dashboard!**
+## 🔗 **Access the Dashboard**
+Explore the interactive dashboard here:  
+[PowerBI Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGVlMDQwYmMtMDI0NC00YmI2LWEyMjctYzk2YWZjZWViNmQ2IiwidCI6ImFjYmJkZDFlLTE4YWYtNDIyMy04ZTdiLWMwZDk3MTllYTVmZiJ9)
+
+---
