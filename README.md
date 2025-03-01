@@ -1,4 +1,4 @@
-# PowerBI Sales Report
+# Power BI Sales Report
 
 This interactive sales analysis report was developed to provide a comprehensive and detailed view of commercial performance across various aspects. The dashboard was designed to meet the analytical needs of executives and sales managers, presenting strategic information in a clear and intuitive manner. The report includes:
 
