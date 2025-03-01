@@ -66,6 +66,6 @@ All to meet the strategic needs of organizations.
 
 ## 🔗 **Access the Dashboard**
 Explore the interactive dashboard here:  
-[PowerBI Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGVlMDQwYmMtMDI0NC00YmI2LWEyMjctYzk2YWZjZWViNmQ2IiwidCI6ImFjYmJkZDFlLTE4YWYtNDIyMy04ZTdiLWMwZDk3MTllYTVmZiJ9)
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZGVlMDQwYmMtMDI0NC00YmI2LWEyMjctYzk2YWZjZWViNmQ2IiwidCI6ImFjYmJkZDFlLTE4YWYtNDIyMy04ZTdiLWMwZDk3MTllYTVmZiJ9" target="_blank">PowerBI Sales Dashboard</a>
 
 ---
